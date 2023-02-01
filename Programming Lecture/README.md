@@ -1,4 +1,4 @@
-- 강의의 기본 개념을 공부하고 제공하는 실습 연습문제를 풉니다.
+☞ 강의의 기본 개념을 공부하고 제공하는 실습 연습문제를 풉니다.
 
 
 
@@ -7,12 +7,20 @@
 ### 1. [Introduction](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/1.%20Introduction.md) 
   - 문제: 리스트 원소 두 개의 합 구하기
 ### 2. [선형 배열 (Linear Array)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/2.%20%EC%84%A0%ED%98%95%20%EB%B0%B0%EC%97%B4%20(Linear%20Array).md)
+  - 문제1: 리스트에 새로운 요소 삽입하기
+  - 문제2: 리스트에서 원소 찾아내기
 ### 3. [배열: 정렬과 탐색 (Sorting & Searching)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/3.%20%EB%B0%B0%EC%97%B4:%20%EC%A0%95%EB%A0%AC%EA%B3%BC%20%ED%83%90%EC%83%89%20(Sorting%20%26%20Searching).md)
+  - 문제: 이진탐색 구현
 ### 4. [재귀 알고리즘 (Recursive Algorithms) 기초](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/4.%20%EC%9E%AC%EA%B7%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(Recursive%20Algorithms)%20%EA%B8%B0%EC%B4%88.md)
+  - 문제: 피보나치 수열 구현
 ### 5. [재귀 알고리즘 (Recursive Algorithms) 응용](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/5.%20%EC%9E%AC%EA%B7%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(Recursive%20Algorithms)%20%EC%9D%91%EC%9A%A9.md)
+  - 문제: 재귀적 이진탐색 구현
 ### 6. [알고리즘의 복잡도 (Complexity of Algorithms)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/6.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EB%B3%B5%EC%9E%A1%EB%8F%84(Complexity%20of%20Algorithms).md)
+  - 문제: 알고리즘 복잡도 객관식 5문제
 ### 7. [연결 리스트 (Linked Lists) (1)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/7.%20%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8(Linked%20Lists)%20(1).md)
+  - 문제: 연결 리스트 순회 구현
 ### 8. [연결 리스트 (Linked Lists) (2)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/8.%20%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8(Linked%20Lists)%20(2).md)
+  - 문제: 연결 리스트 노드 삭제
 ### 9. 연결 리스트 (Linked Lists) (3)
 ### 10. 양방향 연결 리스트 (Doubly Linked Lists)
 ### 11. 스택(Stacks)

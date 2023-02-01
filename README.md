@@ -6,7 +6,7 @@
 
 
 ## Reference
-- 프로그래머스의 자료구조 및 알고리즘 프로그래밍 강의
-- Tamassia et al., (2013), Data Structures and Algorithms in Python.
+> - 프로그래머스의 자료구조 및 알고리즘 프로그래밍 강의
+> - Tamassia et al., (2013), Data Structures and Algorithms in Python.
 
 ![20220201](./DSA.jpg)

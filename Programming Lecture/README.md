@@ -21,7 +21,7 @@
   - 문제: 연결 리스트 순회 구현
 ### 8. [연결 리스트 (Linked Lists) (2)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/8.%20%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8(Linked%20Lists)%20(2).md)
   - 문제: 연결 리스트 노드 삭제
-### 9. 연결 리스트 (Linked Lists) (3)
+### 9. [연결 리스트 (Linked Lists) (3)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/9.%20%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8(Linked%20Lists)%20(3).md)
   - 문제: dummy head를 가지는 연결 리스트 노드 삭제
 ### 10. 양방향 연결 리스트 (Doubly Linked Lists)
   - 문제1: 양방향 연결 리스트 역방향 순회 

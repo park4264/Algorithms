@@ -30,7 +30,7 @@
   - 문제4: 양방향 연결 리스트의 병합
 ### 11. [스택(Stacks)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/11.%20%EC%8A%A4%ED%83%9D(Stacks).md)
   - 문제: 수식의 괄호 검사
-### 12. 스택의 응용: 수식의 후위 표기법
+### 12. 스택의 응용: 수식의 후위 표기법 (Postfix Notation)
 ### 13. 스택의 응용: 후위 표기 수식 계산
 ### 14. 큐 (Queues) 
 ### 15. 환형 큐 (Circular Queues)

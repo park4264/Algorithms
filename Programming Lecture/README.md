@@ -30,11 +30,16 @@
   - 문제4: 양방향 연결 리스트의 병합
 ### 11. [스택(Stacks)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/11.%20%EC%8A%A4%ED%83%9D(Stacks).md)
   - 문제: 수식의 괄호 검사
-### 12. 스택의 응용: 수식의 후위 표기법 (Postfix Notation)
-### 13. 스택의 응용: 후위 표기 수식 계산
-### 14. 큐 (Queues) 
-### 15. 환형 큐 (Circular Queues)
-### 16. 우선순위 큐 (Priority Queues)
+### 12. [스택의 응용: 수식의 후위 표기법 (Postfix Notation)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/12.%20%EC%8A%A4%ED%83%9D%EC%9D%98%20%EC%9D%91%EC%9A%A9:%20%EC%88%98%EC%8B%9D%EC%9D%98%20%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EB%B2%95%20(Postfix%20Notation).md)
+  - 문제: 중위표현 수식 -> 후위표현 수식
+### 13. [스택의 응용: 후위 표기 수식 계산](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/13.%20%EC%8A%A4%ED%83%9D%EC%9D%98%20%EC%9D%91%EC%9A%A9:%20%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%20%EC%88%98%EC%8B%9D%20%EA%B3%84%EC%82%B0.md)
+  - 문제: 후위표현 수식 계산
+### 14. [큐 (Queues)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/14.%20%ED%81%90(Queues).md)
+  - 문제: 양방향 연결 리스트로 구현하는 큐
+### 15. [환형 큐 (Circular Queues)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/15.%20%ED%99%98%ED%98%95%20%ED%81%90(Circular%20Queues).md)
+  - 문제: 환형 큐 구현
+### 16. [우선순위 큐 (Priority Queues)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/16.%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90(Priority%20Queues).md)
+  - 문제: 우선순위 큐의 enqueue 연산 구현
 ### 17. 트리 (Trees)
 ### 18. 이진 트리 (Binary Trees)
 ### 19. 이진 트리 - 넓이 우선 순회 (breadth first traversal)

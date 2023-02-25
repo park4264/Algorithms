@@ -35,12 +35,12 @@
 >   22. 힙 (Heaps) (1)
 >   23. 힙 (Heaps) (2)
 - 코딩 알고리즘 테스트 서적 1 [Link](https://books.google.co.kr/books/about/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BD%94%EB%94%A9_%ED%85%8C%EC%8A%A4.html?id=vBz-DwAAQBAJ&printsec=frontcover&source=kp_read_button&hl=ko&redir_esc=y#v=onepage&q&f=false)
->   Chapter3. 그리디
->   Chapter4. 구현
->   Chapter5. DFS/BFS
->   Chapter6. 정렬
->   Chapter7. 이진 탐색
->   Chapter8. 다이나믹 프로그래밍
->   Chapter9. 최단 경로
->   Chapter10. 그래프 이론
+>   1. Chapter3. 그리디
+>   2. Chapter4. 구현
+>   3. Chapter5. DFS/BFS
+>   4. Chapter6. 정렬
+>   5. Chapter7. 이진 탐색
+>   6. Chapter8. 다이나믹 프로그래밍
+>   7. Chapter9. 최단 경로
+>   8. Chapter10. 그래프 이론
  - 코딩 알고리즘 테스트 서적 2

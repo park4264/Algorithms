@@ -5,12 +5,12 @@
 
 ## 목차
 
-### 1. [Introduction](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/01.%20Introduction.md) 
+### 1. Introduction
   - 문제: 리스트 원소 두 개의 합 구하기
-### 2. [선형 배열 (Linear Array)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/02.%20%EC%84%A0%ED%98%95%20%EB%B0%B0%EC%97%B4%20(Linear%20Array).md)
+### 2. 선형 배열 (Linear Array)
   - 문제1: 리스트에 새로운 요소 삽입하기
   - 문제2: 리스트에서 원소 찾아내기
-### 3. [배열: 정렬과 탐색 (Sorting & Searching)](https://github.com/park4264/DataStructures-Algorithms/blob/main/Programming%20Lecture/03.%20%EB%B0%B0%EC%97%B4:%20%EC%A0%95%EB%A0%AC%EA%B3%BC%20%ED%83%90%EC%83%89%20(Sorting%20%26%20Searching).md)
+### 3. 배열: 정렬과 탐색 (Sorting & Searching)
   - 문제: 이진탐색 구현
 ### 4. 재귀 알고리즘 (Recursive Algorithms) 기초
   - 문제: 피보나치 수열 구현

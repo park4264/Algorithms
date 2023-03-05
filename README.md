@@ -4,7 +4,7 @@
 
 
 ## Reference
-- 기초 자료구조 및 알고리즘 프로그래밍 강의 [[Link]](https://school.programmers.co.kr/learn/courses/57/57-%EC%96%B4%EC%84%9C%EC%99%80-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80-%EC%B2%98%EC%9D%8C%EC%9D%B4%EC%A7%80)
+- 기초 자료구조 및 알고리즘 프로그래밍 강의 [[Lecture Link]](https://school.programmers.co.kr/learn/courses/57/57-%EC%96%B4%EC%84%9C%EC%99%80-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80-%EC%B2%98%EC%9D%8C%EC%9D%B4%EC%A7%80)
 - 파이썬 알고리즘 서적 1 [[Book Link]](https://books.google.co.kr/books/about/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BD%94%EB%94%A9_%ED%85%8C%EC%8A%A4.html?id=vBz-DwAAQBAJ&printsec=frontcover&source=kp_read_button&hl=ko&redir_esc=y#v=onepage&q&f=false) [[Github]](https://github.com/ndb796?tab=overview&from=2023-02-01&to=2023-02-25)
 - 파이썬 알고리즘 서적 2 [[Github]](https://github.com/onlybooks/algorithm-interview)
 ## 목차
